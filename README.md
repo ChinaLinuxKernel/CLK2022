@@ -1,6 +1,6 @@
 # CLK2022
 
-## CLK2022 Meeting Recording
+## Meeting Recording
 
 [主论坛](https://live.csdn.net/room/csdnlive1/yBviVff4)
 
@@ -11,5 +11,5 @@
 [IO 与 ebpf 分论坛](https://live.csdn.net/room/csdnlive5/FiTE2vU7)
 
 
-## CLK2022 Agenda
+## Agenda
 ![CLK2022](./imgs/2022clk.png)
